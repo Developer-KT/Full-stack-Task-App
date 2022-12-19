@@ -1,0 +1,28 @@
+.yeahh {
+    color: blueviolet;
+}
+
+.container {
+    padding-top: 70px;
+}
+
+.cont {
+    width: 500px;
+    height: 200px;
+    background-color: red;
+}
+
+.tab-wrapperx {
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-end;
+    font-family: 'poppins';
+}
+
+.nav-tabsx {
+    display: flex;
+    justify-items: flex-end;
+}
+.nav-tabsx a {
+    color: white;
+}
